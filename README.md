@@ -4,7 +4,7 @@ Plugin para tiendas Shopify
 # NOTA
 Para la facturación con CFDI 3.3 ahora deberás modificar un campo de tus productos, tendrás que utilizar el campo SKU de tu producto para así vincularlo con una clave SAT y una Clave de Unidad, de la siguiente manera:
 
-CLAVESAT-CLAVEUNIDAD
+CLAVESAT-CLAVEUNIDAD / 
 43191501-H87
 
 ===============================================================================================================
